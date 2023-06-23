@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a final year computer engineering student at Pamukkale University.<br><br>📝 I’m currently open for an Intern or a new job opportunity, this is MY RESUME.<br><br>🌱 I’m currently learning React Native<br><br>📫 How to reach me meliketekin2243@gmail.com
+🎓 I am a final year computer engineering student at Pamukkale University.<br><br>📝 I’m currently open for an Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1aEnku_951S88vu4yZf8rEHUZdRfnz1mw/view?usp=sharing).<br><br>🌱 I’m currently learning React Native<br><br>📫 How to reach me meliketekin2243@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[CV.pdf](https://github.com/mehmetsinann/mehmetsinann/files/11846020/CV.pdf)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehmetsinann&icon=0&color=0)](https://visitcount.itsvg.in)
