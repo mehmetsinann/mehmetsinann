@@ -14,7 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[CV.pdf](https://github.com/mehmetsinann/mehmetsinann/files/11846020/CV.pdf)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehmetsinann&icon=0&color=0)](https://visitcount.itsvg.in)
