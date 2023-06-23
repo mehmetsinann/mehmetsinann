@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 I am a final year computer engineering student at Pamukkale University.<br><br>📝 I’m currently open for an Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1aEnku_951S88vu4yZf8rEHUZdRfnz1mw/view?usp=sharing).<br><br>🌱 I’m currently learning React Native<br><br>📫 How to reach me meliketekin2243@gmail.com
+# Hi 👋, I'm Sinan
+🎓 I am a final year computer engineering student at Pamukkale University.<br><br>📝 I’m currently open for an Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1aEnku_951S88vu4yZf8rEHUZdRfnz1mw/view?usp=sharing).<br><br>🌱 I’m interested in React and React Native.<br><br>📫 How to reach me mehmetsinan42.st@gmail.com
 
 
 ## 🌐 Socials:
