@@ -1,6 +1,7 @@
 # Hi 👋, I'm Sinan
 
-🎓 I am a final year computer engineering student at Pamukkale University.<br><br>📝 I’m currently open for an Intern or a new job opportunity and this is [MY RESUME](https://drive.google.com/file/d/1DljJ9VLo5vUBA9cBi-mFKhCm6-h0XdLW/view?usp=share_link).<br><br>🌱 I’m interested in React and React Native.<br><br>📫 How to reach me mehmetsinanntopal@gmail.com <br><br> https://mehmetsinan.vercel.app
+Software Developer passionate about mobile and web frontend development. Enthusiastic about research, learning,
+and teaching. Skilled in React and React Native with a focus on creating engaging, user-centric applications.
 
 ## 🌐 Socials:
 
